@@ -1,0 +1,25 @@
+{
+  "name": "yx-console",
+  "version": "1.0.0",
+  "description": "console that save logs in file based on unique name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdpatel1988/yx-console.git"
+  },
+  "keywords": [
+    "YXC"
+  ],
+  "author": "Chirag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdpatel1988/yx-console/issues"
+  },
+  "homepage": "https://github.com/cdpatel1988/yx-console#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
