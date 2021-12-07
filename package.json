@@ -1,6 +1,6 @@
 {
   "name": "yx-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "console that save logs in file based on unique name",
   "main": "index.js",
   "scripts": {
